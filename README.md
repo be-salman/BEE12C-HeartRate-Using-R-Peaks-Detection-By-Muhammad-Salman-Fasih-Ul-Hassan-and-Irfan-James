@@ -1,2 +1,5 @@
 # HeartRate-From-ECG
-Finds Heart Rate from ECG Data using R-peaks Detection 
+> Finds Heart Rate from ECG Data
+>
+> Using R-peaks Detection 
+
